@@ -1,0 +1,53 @@
+<?php
+// Language file for AnonNews interface
+// LANGUAGE: Dutch
+// LANGUAGE (native): Nederlands
+// ISO: NL
+
+// Note: Prefix ever " (quotation mark) in a block of text with a \ (backslash) to avoid it being interpreted as code.
+
+$lang[0] = "Kaikki Anonyymeiltä";
+$lang[1] = "lisää vastaavia";
+$lang[2] = "lisää";
+$lang[3] = "Viimeiset julkaisut";
+$lang[4] = "Suosituin ulkoinen uutislähde";
+$lang[5] = "Vähiten suosittu ulkoinen uutislähde";
+$lang[6] = "Viimeisin ulkoinen uutislähde";
+$lang[7] = "Anonyymeihin liittyvät nettisivut";
+$lang[8] = "Kaikki julkaisut";
+$lang[9] = "Kaikki ulkoiset uutislähteet";
+$lang[10] = "Kaikki Anonyymeihin liittyvät nettisivut";
+$lang[11] = "Lisää uusi julkaisu/manifesto";
+$lang[12] = "Kohtuullisuus ei ole sensuuria! Lisäyksiä ei sensuroida mieleipiteiden mukaan, vaan tärkeyden mukaan. Ole hyvä ja jaa vain lehdistötiedotteita ja manifestoja. HUOMAA että kaikki tänne tehdyt julkaisut tarkastetaan kielioppiasun vuoksi ja korjataan. Niiden ei tarvi olla täydellisiä, mutta niiden on oltava luettavia. Julkaisut jotka puhuvat \"kaikista Anonyymeistä\" hylätään, elleivät he ole puhuneet siitä kirjaimellisesti jokaisen Anonin kanssa. ";
+$lang[13] = "Julkaisut tälle osastolle ennaltatutkitaan. Ne arvostellaan ennen julkaisua sivuille. Ole hyvä äläkä julkaise aineistoa, joka on jo julkaistu.";
+$lang[14] = "Jos siirrät manifeston kuvana ole hyvä ja laita mukaan lyhyt yhden tai kaden lauseen selvitys julkaisun tekstikenttään hakukoneita varten.";
+$lang[15] = "Lehdistötiedotteen nimi";
+$lang[16] = "Lehdistötiedotteen teksti";
+$lang[17] = "Lähetä kuva";
+$lang[18] = "vain JPG/PNG, max 5 MB";
+$lang[19] = "Varmistuskoodi";
+$lang[20] = "Julkaise artikkeli";
+$lang[21] = "Kirjoitit koodin väärin. Mene takaisin ja yritä uudestaan.";
+$lang[22] = "Jaa uusi artikkeli ulkoisesta uutislähteestä.";
+$lang[23] = "Kohtuullisuus ei ole sensuuria! Lisäyksiä ei sensuroida mieleipiteiden mukaan, vaan tärkeyden mukaan. Ole hyvä ja julkaise vain artikkeleita joilla on uutisarvoa. Niiden ei tarvitse välttämättä olla mainstream lähteitä, mutta älä julkaise omaa blogiasi tai artikkeliasi Anonyymiverkkoon; tämä ei ole sitä varten.";
+$lang[24] = "Lähetteet tähän osioon näytetään välittömästi, mutta ne saatetaan poistaa myöhemmin jos mod on sitä mieltä, että se on väärässä paikassa.";
+$lang[25] = "Artikkelin nimi";
+$lang[26] = "Arikkelin URL (http:// etuliitteellä)";
+$lang[27] = "Julkaise uusi posti Anonyymiin liittyvä nettisivu";
+$lang[28] = "Kohtuullisuus ei ole sensuuria! Lisäyksiä ei sensuroida mieleipiteiden mukaan, vaan tärkeyden mukaan. Julkaise vain sivuja, jotka ovat suoraan kytköksissä Anonyymiyyteen, kuten IRC status. Itse asiassa kaikki, joka liittyy Anonyymiyyteen on tervetullutta. Ole hyvä äläkä julkaise mielipideblogeja, uutisartikkeleita jne. Uutisartikkelit voit julkaista Ulkoisten Uutislähteiden osioon.";
+$lang[29] = "Julkaisut tähän osioon ennaltatastetaan. Tämä tarkoittaa, että kaikki julkaisut tutkitaan ENNEN kuin se tulee näkyviin. Ole äläkä julkaise samaa aihetta kahteen kertaan.";
+$lang[30] = "Nettisivun nimi (+ lyhyt kuvaus)";
+$lang[31] = "Arikkelin URL (http:// etuliitteellä)";
+$lang[32] = "Kiitos julkaisusta. Se tarkastetaan piakkoin.";
+$lang[33] = "Kiitos julkaisusta. Se on nyt näkyvillä nettisivuilla.";
+$lang[34] = "Paina tästä palataksesi pääsivulle.";
+$lang[35] = "kommentit";
+$lang[36] = "Kommentit aiheeseen %%1%%";
+$lang[37] = "Julkaisija";
+$lang[38] = "Kommentti";
+$lang[39] = "Julkaise";
+$lang[40] = "Kaikki julkaisut AnonNews.org sivuille lisensoidaan automaattisesti Creative Commons Attribution lisenssin alle.";
+$lang[41] = "Tämä ei ole Wikileaks lehdistötiedote. Artikkelit jotka liittyvät Wikileaksiin, mutta eivät Anonyymisyyteen hylätään.";
+$lang[42] = "Vastaa tähän kommenttiin";
+
+?>

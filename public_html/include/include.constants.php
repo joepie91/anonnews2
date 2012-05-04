@@ -1,0 +1,25 @@
+<?php
+if(!isset($_ANONNEWS)) { die(); }  /* Protect from direct requests */
+/* This include takes care of defining constants. */
+
+define("ANONNEWS_ERROR_BANNED",				1	);
+define("ANONNEWS_ERROR_EMPTY_TITLE",		2	);
+define("ANONNEWS_ERROR_EMPTY_BODY",			3	);
+define("ANONNEWS_ERROR_EMPTY_URL",			4	);
+define("ANONNEWS_ERROR_INCORRECT_FORMAT",	5	);
+define("ANONNEWS_ERROR_TOO_LARGE",			6	);
+define("ANONNEWS_ERROR_UPLOAD_ERR",			7	);
+define("ANONNEWS_ERROR_SHORTENER_DETECTED",	8	);
+define("ANONNEWS_ERROR_URL_BLACKLISTED",	9	);
+define("ANONNEWS_ERROR_DATABASE_ERROR",		10	);
+define("ANONNEWS_ERROR_INCORRECT_CAPTCHA",	11	);
+define("ANONNEWS_ERROR_NO_RECORDS_FOUND",	12	);
+define("ANONNEWS_ERROR_NONEXISTENT_URL",	13	);
+define("ANONNEWS_ERROR_MALFORMED_DATA",		14	);
+define("ANONNEWS_ERROR_SPAM",				15	);
+define("ANONNEWS_ERROR_COMMENT_BODY",		16	);
+define("ANONNEWS_ERROR_COMMENT_NAME",		17	);
+define("ANONNEWS_ERROR_POST_BODY",			18	);
+define("ANONNEWS_ERROR_POST_TOPIC",			19	);
+define("ANONNEWS_ERROR_NOT_FOUND",			404	);
+?>

@@ -1,0 +1,53 @@
+<?php
+// Language file for AnonNews interface
+// LANGUAGE: Dutch
+// LANGUAGE (native): Nederlands
+// ISO: NL
+
+// Note: Prefix ever " (quotation mark) in a block of text with a \ (backslash) to avoid it being interpreted as code.
+
+$lang[0] = "Alt om Anonymous";
+$lang[1] = "Mer";
+$lang[2] = "Legg til";
+$lang[3] = "Siste presse";
+$lang[4] = "Mest populære eksterne nyhetskilder";
+$lang[5] = "Minst populære eksterne nyhetskilder";
+$lang[6] = "Siste eksterne nyhetskilder";
+$lang[7] = "Anonymous-relaterte nettsider";
+$lang[8] = "All presse";
+$lang[9] = "Alle eksterne nyhetskilder";
+$lang[10] = "Alle Anonymous-relaterte nettsider";
+$lang[11] = "Send ny pressemelding/manifest";
+$lang[12] = "Moderasjon er ikke sensur! Innlegg blir ikke sensurert i henhold til en spesifikk mening, men vil bli moderert etter relevanse. Vennligst bare send inn pressemeldinger og/eller manifester. MERK: Innlegg sendt inn her blir sjekket for stavefeil og kapitalisering. De trenger ikke være perfekte, men de må være lesbare. Innlegg som snakker på vegne av \"hele Anonymous\" vil bli avvist, hvis du ikke har samlet inn medtykket til hele Anon.";
+$lang[13] = "Inlegg i denne sektoren blir forhåndslest. De vil bli gått igjennom FØR de blir publisert. Vennligst ikke send inn innlegg på nytt.";
+$lang[14] = "Hvis du laster opp et manifest i form av et bilde, vennligst sett inn en en- eller tosetnings beskrivelse i tekstfeltet for å gjøre det tilgjengelig for søkemotorer.";
+$lang[15] = "Pressemeldingsnavn";
+$lang[16] = "Pressemeldingstekst";
+$lang[17] = "Last opp bilde";
+$lang[18] = "Bare JPG / PNG tillatt, max. 5MB.";
+$lang[19] = "Captcha";
+$lang[20] = "Send";
+$lang[21] = "Du skrev ikke inn riktig captcha-kode. Vennligst gå tilbake og prøv på nytt.";
+$lang[22] = "Send inn nytt innlegg for eksterne nyhetskilder";
+$lang[23] = "Moderasjon er ikke sensur! Innlegg blir ikke sensurert i henhold til en spesifikk mening, men vil bli moderert etter relevanse. Vennligst bare send inn artikler som har nyhetsverdi. Disse trenger ikke nødvendigvis være mainstream-outlets, men ikke send inn din egen blogg-artikkel hos Anonymous; det er ikke det tjenesten er til.";
+$lang[24] = "Inlegg i denne sektoren blir ikke forhåndslest. Dette betyr at hvert innlegg vil bli synlig umiddelbart, men vil bli fjernet hvis en moderator føler at det er malplassert.";
+$lang[25] = "Artikkelnavn";
+$lang[26] = "Artikkel-URL (med http:// prefiks)";
+$lang[27] = "Send nytt innlegg for Anonymous-relaterte nettsider";
+$lang[28] = "Moderasjon er ikke sensur! Innlegg blir ikke sensurert i henhold til en spesifikk mening, men vil bli moderert etter relevanse. Vennligst bare send inn nettsider som er direkte relatert til Anonymous, som IRC-status-sider; faktisk, alt som representerer en del av Anonymous er velkomment. Vennligst ikke send inn bloggposter, nyhetsartikler, etc. Nyhetsartikler kan sendes inn i \"Eksterne Nyhetskilder\".";
+$lang[29] = "Innlegg i denne sektoren blir ikke forhåndslest. Dette betyr at hvert innlegg vil bli synlig umiddelbart. Vennligst ikke send inn innlegget på nytt.";
+$lang[30] = "Webside-navn (+ kort beskrivelse)";
+$lang[31] = "Webside-URL (med http:// prefiks)";
+$lang[32] = "Takk for innlegget. Det vil bli sett igjennom snarest. ";
+$lang[33] = "Takk for innlegget. Det er nå synlig på websiden.";
+$lang[34] = "Klikk her for å gå tilbake til hovedsiden.";
+$lang[35] = "Kommentarer";
+$lang[36] = "Kommentarer for %%1%%";
+$lang[37] = "Forfatter";
+$lang[38] = "Kommentér";
+$lang[39] = "Send";
+$lang[40] = "Alle innlegg til AnonNews.org er automatisk lisensiert under en Creative Commons Attribution-lisens.";
+$lang[41] = "Dette er ikke en pressetjeneste for Wikileaks. Artikler relatert til Wikileaks, men ikke til Anonymous, vil bli avvist.";
+$lang[42] = "Svar på kommentar";
+
+?>

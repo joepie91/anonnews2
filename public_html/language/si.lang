@@ -1,0 +1,53 @@
+<?php
+// Language file for AnonNews interface
+// LANGUAGE: Dutch
+// LANGUAGE (native): Nederlands
+// ISO: NL
+
+// Note: Prefix ever " (quotation mark) in a block of text with a \ (backslash) to avoid it being interpreted as code.
+
+$lang[0] = "Vsi smo Anonymous";
+$lang[1] = "več";
+$lang[2] = "dodaj";
+$lang[3] = "Zadnja izjava za medije";
+$lang[4] = "Najbolj popularni zunanji viri novic";
+$lang[5] = "Najmanj popularni zunanji viri novic";
+$lang[6] = "Zadnje novice zunanjih virov";
+$lang[7] = "Spletne strani v povezavi z Anonymous";
+$lang[8] = "Vse izjave za medije";
+$lang[9] = "Vsi zunanji viri novic";
+$lang[10] = "Vse spletne strani v povezavi z Anonymous";
+$lang[11] = "Dodaj novo izjavo za medije ali manifest";
+$lang[12] = "Moderiranje ni cenzura! Vpisi ne bodo cenzurirani glede na mnenja, temveč glede na njihovo ustreznost. Prosimo, da objavljate le sporočila za medije ali manifeste. Vsem vpisom na strani se lektorira slovenična pravilnost in pravilna raba ločil ter malih in velikih začetnic. Za vpise ni potrebno, da so popolni, a vendar morajo biti berljivi. Vpisi v imenu \"vseh Anonymous\" bodo zavrnjeni, razen primeri, ki bodo predebatirani z dobesedno vsakim Anon-om/Anonimnežem.";
+$lang[13] = "Vpisi v tem oddelku so lektorirani. Pregledani bodo PREDEN se objavijo na spletni strani. Prosimo, da ne podvajate vpisov.";
+$lang[14] = "Če ste naložili manifest v obliki slike, prosimo da v namenski prostor dodate kratek opis, ki bo služil za lažje iskanje po iskalnih mehanizmih.";
+$lang[15] = "Naslov sporočila za medije";
+$lang[16] = "Besedilo spročila";
+$lang[17] = "Naloži sliko";
+$lang[18] = "Samo JPG / PNG, max. 5MB.";
+$lang[19] = "Captcha";
+$lang[20] = "Pošlji";
+$lang[21] = "Vpisali ste napačno varnostno kodo. Vrnite se in poizkusite znova.";
+$lang[22] = "Objavi nov vpis zunanjega vira novic";
+$lang[23] = "Moderiranje ni cenzura! Vpisi ne bodo cenzurirani glede na mnenja, temveč glede na njihovo ustreznost. Prosimo, da objavljate samo članke, ki so vredni objave. Ni nujno, da so novice iz \"mainstream\" portalov, a vseeno ne objavljate člankov iz svojega bloga; ta stran ni namenjena temu.";
+$lang[24] = "Vpisi v tem oddelku so lektorirani. Sicer bodo vidni nemudoma, a so lahko odstranjeni, če moderator meni, da niso vpisani v pravi oddelek.";
+$lang[25] = "Ime članka";
+$lang[26] = "URL članka (s http:// predpono)";
+$lang[27] = "Objavi nov vpis za spletno stran v povezavi z Anonymous";
+$lang[28] = "Moderiranje ni cenzura! Vpisi ne bodo cenzurirani glede na mnenja, temveč glede na njihovo ustreznost. Prosimo, da objavljate le strani, ki se direktno navezujejo na Anonymous, kot na primer strani, ki prikazujejo status IRC omrežja. Dobrodošlo je vse, kar predstavlja Anonymous. Prosimo, da ne objavljate člankov iz blogov, portalov z novicami itd. Novice in članki iz portalov z novicami naj bodo objavljeni v oddelku \"Novice iz zunanjih virov\".";
+$lang[29] = "Vpisi v tem oddelku so lektorirani. Pregledani bodo PREDEN se objavijo na spletni strani. Prosimo, da ne podvajate vpisov.";
+$lang[30] = "Ime spletne strani (+ kratek opis)";
+$lang[31] = "URL spletne strani (s http:// predpono)";
+$lang[32] = "Hvala za Vašo objavo. V kratkem bo pregledana. ";
+$lang[33] = "Hvala za Vašo objavo. Sedaj je vidna na spletni strani.";
+$lang[34] = "Za vrnitev na glavno stran kliknite tukaj.";
+$lang[35] = "Komentarji";
+$lang[36] = "Komentarji za %%1%%";
+$lang[37] = "Avtor";
+$lang[38] = "Komentar";
+$lang[39] = "Objavi";
+$lang[40] = "Vse objave na AnonNews.org so avtomatično licencirane pod licenco \"Creative Commons Attribution\".";
+$lang[41] = "To ni storitev za objave glede Wikileaks. Članki navezujoči se na Wikileaks in ne na Anonymous bodo zavrnjeni.";
+$lang[42] = "Odgovori na komentar";
+
+?>

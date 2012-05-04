@@ -1,0 +1,53 @@
+<?php
+// Language file for AnonNews interface
+// LANGUAGE: Dutch
+// LANGUAGE (native): Nederlands
+// ISO: NL
+
+// Note: Prefix ever " (quotation mark) in a block of text with a \ (backslash) to avoid it being interpreted as code.
+
+$lang[0] = "A propos d'Anonymous";
+$lang[1] = "Plus";
+$lang[2] = "Ajouter";
+$lang[3] = "Derniers communiqués de presse";
+$lang[4] = "Sources externes d'information les plus populaires";
+$lang[5] = "Sources externes d'information les moins populaires";
+$lang[6] = "Dernières sources externes d'information";
+$lang[7] = "Sites web à propos d'Anonymous";
+$lang[8] = "Tous les communiqués de presse";
+$lang[9] = "Toutes les sources externes d'information";
+$lang[10] = "Tous les sites web à propos d'Anonymous";
+$lang[11] = "Proposer un communiqué de presse ou un manifeste";
+$lang[12] = "La modération n'est pas une censure !Les entrées ne seront pas censurées sur l'opinion mais modérées par rapport à la pertinence. Ne soumettez que des communiqués de presse et des manifestes. Veuillez noter que la grammaire et la typographie (en particulier l'usage de capitales) des soumissions sont inspectées avant leur publication.Cela n'a pas besoin d'être parfait mais doit être lisible Les entrées qui prétendent parler au nom de tous les Anonymous seront rejetées (à moins que vous n'en ayez réellement parlé à tous les Anons).";
+$lang[13] = "Les soumissions de cette section sont revues avant toutes publications. Ne soumettez pas une entrée plusieurs fois.";
+$lang[14] = "Si vous téléchargez un manifeste sous forme d'image, ajoutez quelques phrases de description. Cela permet aux moteurs de recherche d'indexer le contenu.";
+$lang[15] = "Titre du communiqué de presse";
+$lang[16] = "Texte du communiqué de presse";
+$lang[17] = "Télécharger une image";
+$lang[18] = "JPG ou PNG seulement, 5 Mo maximum.";
+$lang[19] = "Captcha";
+$lang[20] = "Soumettre";
+$lang[21] = "Vous n'avez pas saisi la captcha correctement. Merci de revenir en arrière et de recommencer.";
+$lang[22] = "Soumettre une nouvelle source externe d'information";
+$lang[23] = "La modération n'est pas une censure ! Les entrées ne seront pas censurées sur l'opinion mais modérées par rapport à la pertinence. Ne soumettez que des articles ayant une réelle valeur informative. Les sources ne doivent pas nécessairement être des médias officiels, mais la promotion de votre propre blog est inappropriée.";
+$lang[24] = "Les soumissions dans cette section sont publiées immédiatement. Elles pourront cependant être supprimées à posteriori si un modérateur pense qu'elles n'ont pas leur place ici.";
+$lang[25] = "Titre de l'article";
+$lang[26] = "URL de l'article (avec le préfixe http://)";
+$lang[27] = "Soumettre un nouveau site web à propos d'Anonymous";
+$lang[28] = "La modération n'est pas une censure !Les entrees ne seront pas censurées sur l'opinion mais modérées par r apport à la pertinence. Ne soumettez que des sites à propos d'Anonymous, comme les pages des status IRC ou représentant une partie d'Anonymous. Ne soumettez pas de blogs d'opinion, d'articles de presse, etc. Les articles de presse peuvent être proposés dans la section « Sources externes d'information ».";
+$lang[29] = "Les soumissions de cette section sont revues AVANT toutes publications. Ne soumettez pas une entrée plusieurs fois.";
+$lang[30] = "Nom du site web (avec une description courte)";
+$lang[31] = "URL du site web (avec le préfixe http://)";
+$lang[32] = "Merci de votre soumission. Elle sera revue bientôt.";
+$lang[33] = "Merci de votre soumission. Elle est désormais visible sur le site.";
+$lang[34] = "Cliquer ici pour revenir à la page principale.";
+$lang[35] = "Commentaires";
+$lang[36] = "Commentaires à propos de %%1%%";
+$lang[37] = "Auteur";
+$lang[38] = "Commentaire";
+$lang[39] = "Soumettre";
+$lang[40] = "Toute les soumissions à AnonNews.org sont automatiquement publiées sous la licence «Creative Commons Attribution».";
+$lang[41] = "Ceci n'est pas une service de presse à propos de Wikileaks. Les articles liés à Wikileaks (mais pas à Anonymous) seront rejetés.";
+$lang[42] = "Répondre à ce commentaire";
+
+?>

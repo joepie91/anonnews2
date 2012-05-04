@@ -1,0 +1,53 @@
+<?php
+// Language file for AnonNews interface
+// LANGUAGE: English
+// LANGUAGE (native): English
+// ISO: EN
+
+// Note: Prefix ever " (quotation mark) in a block of text with a \ (backslash) to avoid it being interpreted as code.
+
+$lang[0] = "Everything Anonymous";
+$lang[1] = "more";
+$lang[2] = "add";
+$lang[3] = "Latest press releases";
+$lang[4] = "Most popular external news sources";
+$lang[5] = "Least popular external news sources";
+$lang[6] = "Latest external news sources";
+$lang[7] = "Anonymous-related websites";
+$lang[8] = "All press releases";
+$lang[9] = "All external news sources";
+$lang[10] = "All Anonymous-related websites";
+$lang[11] = "Submit new Press release/manifesto";
+$lang[12] = "Moderation is not censorship! Entries will not be censored on opinion, but will be moderated on relevancy. Please only submit press releases and manifesto's. NOTE that the entries submitted here are screened on grammar and correct use of uppercase and punctuation characters. They do not have to be perfect, but they must be readable. Entries that are speaking for \"entire Anonymous\" will be rejected, unless you have literally talked it through with every single Anon.";
+$lang[13] = "Submissions in this section are prescreened. They will be reviewed BEFORE being published on the site. Please do not resubmit entries.";
+$lang[14] = "If you upload a manifesto as an image, please input a short one or two sentence description into the release text field for search engine spidering purposes.";
+$lang[15] = "Press release name";
+$lang[16] = "Press release text";
+$lang[17] = "Upload image";
+$lang[18] = "JPG / PNG only, max. 5MB.";
+$lang[19] = "Captcha";
+$lang[20] = "Submit";
+$lang[21] = "You did not enter the correct captcha code. Please go back and retry.";
+$lang[22] = "Submit new entry for External news sources";
+$lang[23] = "Moderation is not censorship! Entries will not be censored on opinion, but will be moderated on relevancy. Please only submit articles that have news value. These do not necessarily have to be mainstream outlets, but do not submit your own blog article on Anonymous; that's not what this is for.";
+$lang[24] = "Submissions in this section are postscreened. This means every entry will be visible immediately, but may be removed later if a mod feels it is in the wrong place.";
+$lang[25] = "Article name";
+$lang[26] = "Article URL (with http:// prefix)";
+$lang[27] = "Submit new entry for Anonymous-related websites";
+$lang[28] = "Moderation is not censorship! Entries will not be censored on opinion, but will be moderated on relevancy. Please only submit sites that are directly related to Anonymous, like IRC status pages; in fact, anything that is representing a part of Anonymous is welcome. Please do not submit opinion blogs, news articles, etc. News articles may be submitted in the External News Sources section.";
+$lang[29] = "Submissions in this section are prescreened. This means every entry will be reviewed BEFORE it becomes visible. Please do not resubmit your entry.";
+$lang[30] = "Website name (+ short description)";
+$lang[31] = "Website URL (with http:// prefix)";
+$lang[32] = "Thank you for your submission. It will be reviewed shortly.";
+$lang[33] = "Thank you for your submission. It is now visible on the website.";
+$lang[34] = "Click here to go back to the main page.";
+$lang[35] = "comments";
+$lang[36] = "Comments for %%1%%";
+$lang[37] = "Author";
+$lang[38] = "Comment";
+$lang[39] = "Submit";
+$lang[40] = "All submissions to AnonNews.org are automatically licensed under a Creative Commons Attribution license.";
+$lang[41] = "This is not a Wikileaks press service. Articles related to Wikileaks, but not to Anonymous, will be <u>rejected</u>.";
+$lang[42] = "Reply to this comment";
+
+?>

@@ -1,0 +1,53 @@
+<?php
+// Language file for AnonNews interface
+// LANGUAGE: German
+// LANGUAGE (native): Deutsch
+// ISO: DE
+
+// Note: Prefix ever " (quotation mark) in a block of text with a \ (backslash) to avoid it being interpreted as code.
+
+$lang[0] = "Alles über Anonymous";
+$lang[1] = "mehr";
+$lang[2] = "hinzufügen";
+$lang[3] = "Neueste Pressemitteilungen";
+$lang[4] = "Populärste externe Nachrichten";
+$lang[5] = "Unpopulärste externe Nachrichten";
+$lang[6] = "Neueste externe Nachrichten";
+$lang[7] = "Anonymous-bezogene Webseiten";
+$lang[8] = "Alle Pressemitteilungen";
+$lang[9] = "Alle externen Nachrichtenquellen";
+$lang[10] = "Alle Anonymous-bezogenen Webseiten";
+$lang[11] = "Neue/s Nachricht/Manifest einreichen";
+$lang[12] = "Moderation ist keine Zensur! Beiträge werden nicht aufgrund von Meinungen zensiert, sondern in Hinsicht auf Relevanz moderiert. Bitte reiche nur Pressemitteilungen und Manifeste ein. Bitte beachte auch, dass alle Beiträge auf Rechtschreibung, Grammatik und Satzzeichen überprüft werden. Beiträge müssen nicht perfekt, aber lesbar sein. Beiträge, die im Namen \"aller Anonymous\" sprechen, werden abgelehnt, sofern sie nicht mit jedem einzelnen (sic!) Anon abgesprochen sind.";
+$lang[13] = "Beiträge in dieser Rubrik werden <u>vor</u> der Veröffentlichung überprüft. Das bedeutet, dass dein Beitrag erst sichtbar ist, nachdem er von einem Moderator überprüft wurde. Bitte reiche Beiträge nicht mehrfach ein.";
+$lang[14] = "Wenn du ein Manifest als Bild hochlädst, füge in das Textfeld bitte eine kurze Beschreibung (ein oder zwei Sätze) ein, damit es für Suchmaschinen auffindbar ist.";
+$lang[15] = "Name der Pressemitteilung";
+$lang[16] = "Inhalt der Pressemitteilung";
+$lang[17] = "Bild hochladen";
+$lang[18] = "Format JPG/PNG, max. 5MB";
+$lang[19] = "Captcha";
+$lang[20] = "Einreichen";
+$lang[21] = "Du hast das Captcha nicht korrekt eingegeben. Bitte gehe zurück und versuche es noch einmal.";
+$lang[22] = "Neue externe Nachricht einreichen";
+$lang[23] = "Moderation ist keine Zensur! Beiträge werden nicht aufgrund von Meinungen zensiert, sondern in Hinsicht auf Relevanz moderiert. Bitte reiche nur Nachrichten ein, die einen Nachrichtenwert haben. Es muss sich dabei nicht um Mainstream-Nachrichtenquellen handeln, aber reiche keine eigenen Blog-Einträge ein; das ist nicht der Zweck dieser Seite.";
+$lang[24] = "Einreichungen in dieser Rubrik werden <u>NACH</u> der Veröffentlichung überprüft. Das bedeutet, dass deine eingereichten Nachrichten sofort sichtbar sind, aber möglicherweise später von einem Moderator entfernt werden, falls sie nicht den Kriterien entsprechen.";
+$lang[25] = "Name des Artikels";
+$lang[26] = "Artikel-URL (mit http://-Präfix)";
+$lang[27] = "Neue Anonymous-bezogene Webseite einreichen";
+$lang[28] = "Moderation ist keine Zensur! Einreichungen werden nicht aufgrund von Meinungen zensiert, sondern in Hinsicht auf Relevanz moderiert. Bitte reiche nur Seiten ein, die direkt auf Anonymous bezogen sind, beispielsweise Status-Seiten für IRC; im Grunde ist alles, was einen Teil von Anonymous repräsentiert, auch erwünscht. Bitte reiche weder Meinungen aus Blogs, noch Nachrichten ein. Für Nachrichten benutze die Rubrik \"externe Nachrichten\".";
+$lang[29] = "Einträge in dieser Rubrik werden <u>VOR</u> der Veröffentlichung überprüft. Das bedeutet, dass dein Beitrag erst sichtbar wird, nachdem er von einem Moderator überprüft wurde. Bitte reiche Beiträge nicht mehrfach ein.";
+$lang[30] = "Name der Webseite (mit kurzer Beschreibung)";
+$lang[31] = "URL der Webseite (mit http://-Präfix)";
+$lang[32] = "Danke für deinen Beitrag, er wird in Kürze überprüft.";
+$lang[33] = "Danke für deinen Beitrag, er ist nun auf der Webseite veröffentlicht.";
+$lang[34] = "Zur Hauptseite";
+$lang[35] = "Kommentare";
+$lang[36] = "Kommentare für %%1%%";
+$lang[37] = "Autor";
+$lang[38] = "Kommentar";
+$lang[39] = "Einreichen";
+$lang[40] = "Alle bei AnonNews.org eingereichten Beiträge stehen automatisch unter der \"Creative Commons Attribution License\".";
+$lang[41] = "Dies ist keine Pressestelle für Wikileaks. Auf Wikileaks bezogene Artikel, die in keinem Zusammenhang zu Anonymous stehen, werden <u>abgelehnt</u>.";
+$lang[42] = "Auf diesen Kommentar antworten";
+
+?>

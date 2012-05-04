@@ -1,0 +1,53 @@
+<?php
+// Language file for AnonNews interface
+// LANGUAGE: English
+// LANGUAGE (native): English
+// ISO: EN
+
+// Note: Prefix ever " (quotation mark) in a block of text with a \ (backslash) to avoid it being interpreted as code.
+
+$lang[0] = "Todo Anonymous";
+$lang[1] = "más";
+$lang[2] = "añadir";
+$lang[3] = "Últimos comunicados";
+$lang[4] = "Fuentes externas de noticias más populares";
+$lang[5] = "Fuentes externas de noticias menos populares";
+$lang[6] = "Últimas fuentes externas de noticias";
+$lang[7] = "Páginas relacionadas con Anonymous";
+$lang[8] = "Todos los comunicados";
+$lang[9] = "Todos las fuentes externas de noticias";
+$lang[10] = "Todas las páginas relacionadas con Anonymous";
+$lang[11] = "Enviar nuevo comunicado / manifesto";
+$lang[12] = "¡La moderación no es censura! Las entradas no serán censuradas por su opinión, sino moderadas por su relevancia. Por favor, envía solamente comunicados y manifestos. Ten en cuenta que se valora la gramática y el uso correcto de las mayúsculas y los signos de puntuación en los envíos. No tienen que estar perfectos, pero tienen que ser legibles. Los envíos que hablan por \"todo Anonymous\" serán rechazados, a no ser que literalmente hayas hablado con absolutamente cada Anon.";
+$lang[13] = "Las entradas en esta sección son moderadas. Serán revisadas ANTES de ser publicadas. No hagas reenvíos, por favor.";
+$lang[14] = "Si subes un manifesto o una imagen, introduce una breve descripción en una o dos frases en el campo de texto del envío, para que los motores de búsqueda puedan indexarlo.";
+$lang[15] = "Título del comunicado.";
+$lang[16] = "Texto del comunicado.";
+$lang[17] = "Subir imagen.";
+$lang[18] = "Sólo JPG / PNG, max. 5MB.";
+$lang[19] = "Captcha";
+$lang[20] = "Enviar";
+$lang[21] = "No has introducido el texto correcto del Captcha. Por favor vuelve atrás y reinténtalo.";
+$lang[22] = "Enviar nueva entrada para Fuentes de noticias externas.";
+$lang[23] = "¡La moderación no es censura! Las entradas no serán censuradas por su opinión, sino moderadas por su relevancia. Por favor, envía solamente artículos que tengan valor informativo. Estos no tienen que ser necesariamente artículos de medios mayoritarios, pero no envíes artículos de tu propio blog sobre Anonymous; este sitio no es para eso.";
+$lang[24] = "Los envíos a esta sección son post-moderados. Esto significa que todos los envíos serán visibles inmediatamente, pero podría ser eliminados más tarde si un moderador piensa que está en el lugar equivocado.";
+$lang[25] = "Título del artículo";
+$lang[26] = "URL del artículo (con prefijo http:// )";
+$lang[27] = "Enviar nueva entrada para Páginas relacionadas con Anonymous.";
+$lang[28] = "¡La moderación no es censura! Las entradas no serán censuradas por su opinión, sino moderadas por su relevancia. Por favor, envía solamente páginas que estén directamente relacionadas con Anonymous, como páginas de estado del IRC; de hecho, cualquier cosa que represente una parte de Anonymous es bienvenida. Por favor, no envíes blogs de opinión, artículos de noticias, etc. Estos últimos podrían ser enviados a la sección Fuentes externas de noticias.";
+$lang[29] = "Las entradas en esta sección son moderadas. Serán revisadas ANTES de ser publicadas. No hagas reenvíos, por favor.";
+$lang[30] = "Nombre de la página (+ descripción breve)";
+$lang[31] = "URL de la página (con prefijo http:// )";
+$lang[32] = "Gracias por tu envío. Será revisado en breve.";
+$lang[33] = "Gracias por tu envío. Ya es visible en la página.";
+$lang[34] = "Haz click aquí para volver a la página principal.";
+$lang[35] = "comentarios";
+$lang[36] = "Comentarios para %%1%%";
+$lang[37] = "Autor";
+$lang[38] = "Comentario";
+$lang[39] = "Enviar";
+$lang[40] = "Todos los envíos a AnonNews.org son automaticamente licenciados bajo una licencia Creative Commons.";
+$lang[41] = "Esto no es el servicio de prensa de Wikileaks. Artículos relacionados con Wikileaks, pero no con Anonymous, serán rechazados.";
+$lang[42] = "Responder a este comentario";
+
+?>

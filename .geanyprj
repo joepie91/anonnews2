@@ -1,0 +1,8 @@
+
+[project]
+name=AnonNews 2.0
+description=
+base_path=./
+run_cmd=
+regenerate=true
+type=All

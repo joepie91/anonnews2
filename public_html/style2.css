@@ -1,0 +1,755 @@
+.c-actions
+{
+	bottom: 0;
+	position: absolute;
+	right: 0;
+}
+.c-actions-button
+{
+	border: 1px solid #CACACA;
+	display: block;
+	float: right;
+	font-size: 14px;
+	font-weight: 700;
+	margin: 4px;
+	padding: 2px 5px;
+}
+.c-actions-button:hover
+{
+	background-color: #E9E9E9;
+	border: 1px solid #000;
+}
+.c-body
+{
+	padding-bottom: 25px;
+	text-align: justify;
+}
+.c-children
+{
+	padding-left: 30px;
+}
+.c-meta
+{
+	background-color: #E8E8E8;
+	border-radius: 5px;
+	margin-bottom: 9px;
+	moz-border-radius: 5px;
+	padding: 4px 8px;
+}
+.c-meta-date
+{
+	float: right;
+	font-style: italic;
+}
+.c-outer
+{
+	min-height: 95px;
+	padding: 8px;
+}
+.c-outer,.c-small
+{
+	background-color: #DADADA;
+	border: 1px solid #888;
+	margin-top: 10px;
+	position: relative;
+}
+.c-reply
+{
+	display: none;
+	padding-left: 20px;
+}
+.c-reply button,.c-comment button
+{
+	font-size: 16px;
+	margin-top: 6px;
+}
+.c-reply div.button,.c-comment div.button
+{
+	text-align: right;
+}
+.c-reply input,.c-reply textarea,.c-comment input,.c-comment textarea
+{
+	border: 1px solid #000;
+}
+.c-reply input,.c-reply textarea,.c-reply div.button,.c-comment input,.c-comment textarea,.c-comment div.button
+{
+	box-sizing: border-box;
+	display: block;
+	padding: 4px;
+	width: 80%;
+}
+.c-reply textarea,.c-comment textarea
+{
+	font-size: 16px;
+	height: 250px;
+}
+.c-reply-header
+{
+	font-size: 19px;
+	font-weight: 700;
+	margin-top: 7px;
+}
+.c-small
+{
+	color: #505050;
+	padding: 4px;
+}
+.c-small .c-actions-button
+{
+	margin: 2px;
+}
+.c-small-inner
+{
+	padding: 3px;
+}
+.c-spacer
+{
+	margin-top: 30px;
+}
+.forum-buttons a
+{
+	border: 1px solid #C6C6C6;
+	display: block;
+	float: right;
+	margin-bottom: 5px;
+	padding: 5px;
+	text-decoration: none;
+}
+.forum-buttons a:hover
+{
+	background-color: #DEDEDE;
+	border: 1px solid gray;
+}
+.forum-header
+{
+	font-size: 18px;
+	font-weight: 700;
+	margin-bottom: 16px;
+	margin-top: 12px;
+	text-align: center;
+}
+.forum-header-category-threads,.forum-header-category-posts,.forum-header-threads-replies
+{
+	width: 70px;
+}
+.forum-item-category-threads,.forum-item-category-posts,.forum-item-threads-replies
+{
+	font-size: 28px;
+	font-weight: 700;
+}
+.forum-post
+{
+	background-color: #DEDEDE;
+	border: 1px solid silver;
+	margin-top: 16px;
+}
+.forum-post-body
+{
+	font-size: 15px;
+	padding: 9px 14px;
+	text-align: justify;
+	width: 682px;
+}
+.forum-post-date
+{
+	font-size: 13px;
+	margin-bottom: 9px;
+	margin-top: 6px;
+}
+.forum-post-first
+{
+	border: 1px solid gray;
+}
+.forum-post-meta
+{
+	background-color: #D4D4D4;
+	padding: 9px 6px;
+	width: 178px;
+}
+.forum-post-meta,.forum-post-body
+{
+	float: left;
+}
+.forum-post-user
+{
+	font-size: 18px;
+	font-weight: 700;
+}
+.forum-table .forum-item-category-name,.forum-table .forum-item-threads-name
+{
+	padding: 0;
+}
+.forum-table th
+{
+	background-color: #D8D8D8;
+	text-align: left;
+}
+.forum-table th,.forum-table td
+{
+	padding: 7px;
+}
+.forum-table,.forum-buttons,.forum-post,.forum-reply
+{
+	margin: 0 auto;
+	width: 900px;
+}
+.forum-table,.forum-table th,.forum-table td
+{
+	border: 1px solid #C6C6C6;
+	border-collapse: collapse;
+}
+.forum-table-date,.forum-table-teaser
+{
+	font-size: 13px;
+}
+.forum-table-link
+{
+	border: none;
+	display: block;
+	padding: 7px;
+}
+.forum-table-link:hover
+{
+	background-color: #DCDCDC;
+	border: none;
+}
+.forum-table-name
+{
+	font-size: 19px;
+	font-weight: 700;
+}
+@font-face
+{
+	font-family: 'Muli';
+	font-style: normal;
+	font-weight: 400;
+	src: local('Muli Light'), local('Muli-Light'), url('http://tahoe-gateway.cryto.net:3719/download/VVJJOkNISzpjcWE1M3FhZTd6NXlsM3JuMmVkcGdzaHRvcTozMm9rbDN4Mmdsd2twM21mcG4yNGJ0M2RmZ2Zqb2NhM2hqaHRleTI3Nmo3cmlsdW92b3BhOjM6NjozMzkyNA==/anonnews.woff') format('woff');
+}
+a
+{
+	border-bottom: 1px dashed;
+	color: #000;
+	text-decoration: none;
+}
+a.comments
+{
+	display: block;
+	float: right;
+	margin-right: 9px;
+	padding: 3px 4px 6px;
+	text-decoration: none;
+}
+a.comments span.count
+{
+	display: block;
+	font-size: 20px;
+	line-height: 17px;
+	margin-bottom: 0;
+	margin-left: auto;
+	margin-right: auto;
+}
+a.comments span.under
+{
+	display: block;
+	font-size: 8px;
+	line-height: 6px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0;
+}
+a.header-button,div.header-button
+{
+	border: 1px solid #696969;
+	border-radius: 10px;
+	color: #202020;
+	display: block;
+	float: left;
+	font-size: 20px;
+	margin: 5px;
+	moz-border-radius: 10px;
+	overflow: hidden;
+	padding: 8px;
+	text-decoration: none;
+}
+a.header-button:hover,a.section-button:hover
+{
+	background-color: #EFEFEF;
+	border: 1px solid #000;
+	color: #242424;
+	text-decoration: none;
+}
+a.hidden
+{
+	display: block;
+	font-size: 13px;
+	margin-top: 19px;
+}
+a.minus
+{
+	color: red;
+	padding-left: 8px;
+	padding-right: 8px;
+}
+a.name
+{
+	border-bottom: none;
+	display: inline;
+	line-height: 32px;
+	padding: 6px;
+	text-decoration: none;
+}
+a.page-button,div.page-button
+{
+	border: 1px solid #696969;
+	border-radius: 10px;
+	color: #202020;
+	font-size: 16px;
+	margin: 1px;
+	moz-border-radius: 10px;
+	overflow: hidden;
+	padding: 8px;
+	text-decoration: none;
+}
+a.page-button:hover
+{
+	background-color: #D8D8D8;
+	border: 1px solid #000;
+	color: #242424;
+	text-decoration: none;
+}
+a.plus
+{
+	color: lime;
+	padding-left: 4px;
+	padding-right: 4px;
+}
+a.plus,a.minus,a.comments
+{
+	border-bottom: none;
+}
+a.plus,a.minus,div.votestate
+{
+	display: block;
+	float: right;
+	padding-bottom: 3px;
+	padding-right: 3px;
+	text-decoration: none;
+}
+a.plus:hover,a.minus:hover,a.comments:hover
+{
+	background-color: gray;
+	color: #FFF;
+}
+a.readmore
+{
+	color: #000;
+	margin-left: 12px;
+	text-decoration: none;
+}
+a.readmore:hover,a.name:hover
+{
+	text-decoration: underline;
+}
+a.section-button
+{
+	border: 1px solid #DDD;
+	border-radius: 10px;
+	color: #EFEFEF;
+	display: block;
+	float: right;
+	font-size: 14px;
+	margin: 5px;
+	moz-border-radius: 10px;
+	padding: 6px;
+	text-decoration: none;
+}
+a.small
+{
+	display: inline;
+	margin-left: 8px;
+}
+a.tab
+{
+	border-bottom: 1px solid #000;
+}
+a.tab,a.tab-active
+{
+	background-color: #DDD;
+	border: 1px solid #000;
+	border-top-left-radius: 7px;
+	border-top-right-radius: 7px;
+	font-size: 18px;
+	font-weight: 400;
+	moz-border-radius-topleft: 7px;
+	moz-border-radius-topright: 7px;
+	padding: 5px 5px 4px;
+	text-decoration: none;
+}
+a.tab-active,a.tab:hover
+{
+	background-color: #7D7D7D;
+	color: #EFEFEF;
+}
+a:hover
+{
+	border-bottom: 1px solid;
+}
+button.hiddenreply
+{
+	float: right;
+}
+div.body-main
+{
+	padding: 3px 13px;
+}
+div.cc-notice
+{
+	background-color: #D9D9D9;
+	border: 1px solid #000;
+	border-radius: 8px;
+	font-size: 11px;
+	margin: 0 auto;
+	moz-border-radius: 8px;
+	padding: 4px;
+	width: 80%;
+}
+div.cc-notice img
+{
+	float: left;
+	margin-right: 6px;
+}
+div.clear
+{
+	clear: both;
+}
+div.comment
+{
+	background-color: #E0E0E0;
+	border: 1px solid #000;
+	font-size: 16px;
+	margin-bottom: 18px;
+	padding: 16px;
+}
+div.form-notice
+{
+	background-color: #FFEFBE;
+	background-image: url(http://tahoe-gateway.cryto.net:3719/download/VVJJOkNISzp5anRpYzc1b24zemx3M2k0MnJ0ajN4Y2Z5eTpqcGt1aXJkcXhiYnU3bnUzdjdycngyZWFhejd3cGpqZzY1d3ptbG81NnY3Y21mNGh4aDRhOjM6Njo2NjY=/error.png);
+	background-position: 6px 3px;
+	background-repeat: no-repeat;
+	border: 1px solid #735600;
+	border-radius: 10px;
+	box-sizing: border-box;
+	font-size: 12px;
+	khtml-box-sizing: border-box;
+	margin-bottom: 3px;
+	moz-border-radius: 10px;
+	moz-box-sizing: border-box;
+	ms-box-sizing: border-box;
+	padding: 5px 5px 5px 27px;
+	webkit-border-radius: 10px;
+	webkit-box-sizing: border-box;
+	width: 80%;
+}
+div.header,.forum-reply
+{
+	margin-top: 16px;
+}
+div.hiddenreply
+{
+	background-color: silver;
+	border: 1px solid #000;
+	display: none;
+	margin-top: 6px;
+	padding: 4px;
+	width: 358px;
+}
+div.highlighted
+{
+	background-color: #FBEC99;
+}
+div.item
+{
+	background-color: #DDD;
+	border: 1px solid gray;
+	border-radius: 8px;
+	font-size: 16px;
+	margin-top: 3px;
+	moz-border-radius: 8px;
+	padding: 0;
+}
+div.normalcomments
+{
+	background-color: silver;
+	border: 1px solid #000;
+	padding: 4px;
+	width: 358px;
+}
+div.note
+{
+	font-size: 12px;
+	margin-top: 6px;
+}
+div.page-list
+{
+	padding: 0 15px;
+	text-align: center;
+}
+div.page-list a
+{
+	border: none;
+	line-height: 180%;
+	margin: 2px 0;
+	padding: 3px 4px 3px 3px;
+	text-decoration: none;
+}
+div.page-list a:hover
+{
+	outline: 1px dashed #000;
+}
+div.page-list-bottom
+{
+	margin-top: 11px;
+}
+div.page-list-top
+{
+	margin-bottom: 11px;
+	margin-top: 11px;
+}
+div.pagecontent
+{
+	margin: 12px;
+}
+div.pressrelease
+{
+	margin: 0 auto;
+	text-align: justify;
+	width: 900px;
+}
+div.pressrelease p
+{
+	margin-bottom: 9px;
+	margin-top: 4px;
+}
+div.pressrelease-image
+{
+	margin-bottom: 15px;
+	padding: 0;
+	text-align: center;
+}
+div.pressrelease-image img
+{
+	margin: 0;
+}
+div.section
+{
+	background-color: #7D7D7D;
+	border: 1px solid #000;
+	border-radius: 14px;
+	moz-border-radius: 14px;
+	padding: 4px;
+}
+div.section-header
+{
+	color: #5B5B5B;
+	font-size: 23px;
+	font-weight: 700;
+	margin-bottom: 3px;
+}
+div.section-wrapper
+{
+	margin: 0 auto 17px;
+	width: 98%;
+}
+div.small
+{
+	background-color: #E1E1E1;
+	border-color: gray;
+	padding: 8px;
+}
+div.sort-options
+{
+	float: right;
+	font-size: 13px;
+	margin-bottom: 6px;
+}
+div.sort-options a,input.empty
+{
+	color: gray;
+}
+div.sort-options a.active
+{
+	border-bottom-style: solid;
+	color: #000;
+}
+div.sort-options a:hover
+{
+	border-bottom-style: dashed;
+	color: #000;
+}
+div.source-notice
+{
+	text-align: center;
+}
+div.submit
+{
+	margin-top: 15px;
+	text-align: center;
+	width: 80%;
+}
+div.submit button
+{
+	font-size: 19px;
+}
+div.submit-loader
+{
+	display: none;
+	font-size: 16px;
+	text-align: center;
+	width: 80%;
+}
+div.topbar
+{
+	background-color: #E0E0E0;
+	border-bottom: 1px solid gray;
+	font-size: 18px;
+	margin-bottom: 15px;
+	padding: 3px 12px;
+	text-align: left;
+}
+div.upvotes
+{
+	color: green;
+	float: right;
+	margin-right: 8px;
+}
+form h4
+{
+	font-size: 22px;
+	margin-bottom: 2px;
+	margin-top: 14px;
+}
+form.forum input,form.forum textarea,form.forum select
+{
+	font-size: 17px;
+	padding: 4px;
+	width: 100%;
+}
+form.forum textarea
+{
+	height: 200px;
+}
+form.submission input,form.submission textarea,form.submission select
+{
+	font-size: 24px;
+	padding: 5px;
+	width: 80%;
+}
+form.submission input,form.submission textarea,form.submission select,form.forum input,form.forum textarea,form.forum select
+{
+	background-color: #F1F1F1;
+	border: 1px solid #000;
+	box-sizing: border-box;
+	display: block;
+	khtml-box-sizing: border-box;
+	moz-box-sizing: border-box;
+	ms-box-sizing: border-box;
+	webkit-box-sizing: border-box;
+}
+form.submission input.upload,.c-reply input,.c-comment input
+{
+	font-size: 17px;
+}
+form.submission textarea
+{
+	height: 400px;
+}
+form.submission textarea,form.forum textarea
+{
+	font-size: 14px;
+}
+h1
+{
+	background-color: #D7D7D7;
+	border-bottom: 1px solid gray;
+	font-weight: 400;
+	margin-bottom: 0;
+	margin-top: 0;
+	padding: 10px;
+}
+h1 img,h1 input
+{
+	font-size: 2px;
+}
+h1,h1 a
+{
+	border-bottom: none;
+	color: #3B3B3B;
+}
+h2
+{
+	color: #3D3D3D;
+	display: inline;
+	padding: 7px;
+}
+h3
+{
+	margin-bottom: 2px;
+}
+h5
+{
+	border-bottom: 1px solid #000;
+	font-size: 26px;
+	margin-bottom: 15px;
+	margin-top: 3px;
+	padding-bottom: 7px;
+}
+html,body
+{
+	background-color: #EBEBEB;
+	font-family: Muli, Verdana, Arial;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+img.loader
+{
+	display: none;
+	float: left;
+	margin-left: 5px;
+	margin-top: 9px;
+}
+span.smallcomment
+{
+	color: #242424;
+}
+span.spacer
+{
+	font-size: 1px;
+}
+span.strong,a.tab-active,span.bold,div.page-list a.current,.c-meta-name
+{
+	font-weight: 700;
+}
+span.votecount
+{
+	float: right;
+	padding-right: 6px;
+}
+span.votes
+{
+	float: right;
+	font-size: 24px;
+	font-weight: 700;
+	padding-right: 9px;
+}
+strong.hidden
+{
+	display: block;
+	margin-bottom: 3px;
+}
+textarea.reply
+{
+	font-family: arial;
+	height: 140px;
+	width: 350px;
+}

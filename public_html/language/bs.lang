@@ -1,0 +1,53 @@
+<?php
+// Language file for AnonNews interface
+// LANGUAGE: Bosnian
+// LANGUAGE (native): Bosanski
+// ISO: BS
+
+// Note: Prefix ever " (quotation mark) in a block of text with a \ (backslash) to avoid it being interpreted as code.
+
+$lang[0] = "Samo Anonymous";
+$lang[1] = "više";
+$lang[2] = "dodaj";
+$lang[3] = "Nove vijesti iz štampe";
+$lang[4] = "Najpopularniji spoljni izvori";
+$lang[5] = "Novi popularni spoljni izvori";
+$lang[6] = "Najnoviji spoljni izvori";
+$lang[7] = "Sajtovi o Anonymous organizaciji";
+$lang[8] = "Sva izdanja štampe";
+$lang[9] = "Svi spoljni izvori";
+$lang[10] = "Svi sajtovi o Anonymous organizaciji";
+$lang[11] = "Dodaj novu vijest iz štampe";
+$lang[12] = "Vijesti ti ne možeš izmjeniti ali moderator može. Zapamti da sve vijesti moraju biti gramatički tačne. Vijesti ne moraju biti perfektne ali bi trebale biti čitljive. Vijesti koje govore isključivo o Anonymous organizaciji, u ovoj sekciji, će biti obrisane ali mogu se bazirati na Anon IRC mreži ili njihovim članovima.";
+$lang[13] = "Sve vijesti u ovoj sekciji će biti više puta pregledane prije objavljivanja javnosti. Molimo nemojte više puta slati isti sadržaj, budite strpljivi.";
+$lang[14] = "Ako dodaješ slike onda ukratko opiši sliku kako bi internet botovi mogli prepoznati sadržaj.";
+$lang[15] = "Naslov sa izvorne vijesti";
+$lang[16] = "Tekst sa izvorne vijesti";
+$lang[17] = "Dodaj sliku";
+$lang[18] = "samo JPG / PNG format, max. 5MB.";
+$lang[19] = "Captcha kod";
+$lang[20] = "Dodaj";
+$lang[21] = "Nisi ukucao tačan captcha kod.";
+$lang[22] = "Dodaj novu vijest u sekciju Spoljni izvori";
+$lang[23] = "Ti ne možeš izmjeniti ovu vijest ali moderator može. Molimo samo šaljite vijest koje imaju potpunu formu vijesti. Ovakve vijesti nemaju izravnu vezu sa Anonymous grupom ali nemojte dodavati vijesti sa vaših blogova ili sajtova.";
+$lang[24] = "Sve vijesti u ovoj sekciji su automatski objavljene. To znači da su se sve vijesti pojavile u javnosti onog trenutka kada je autor to poslao. Moderator može obrisati takvu vijest ako smatra da nije prikladna.";
+$lang[25] = "Naslov";
+$lang[26] = "URL vijesti (sa http:// prefixom)";
+$lang[27] = "Dodaj novu vijest o Anononymous organizaciji";
+$lang[28] = "Ti ne možeš izmjeniti vijest ali moderatori mogu ukoliko je to prijeko potrebno. Molimo samo šaljite vijesti koje govore o Anonymous organizaciji, kao što su IRC statusi... tj. sve što predstavlja dio Anonymous organizacije je dobro došlo. Nemojte slati vijesti sa privatnih blogova, vijesti koje nemaju nikakve veze sa Anonymous organizacijom. Neke vijesti će se pojaviti u sekciji Ostalo.";
+$lang[29] = "Sav sadržaj u ovoj sekciji je pregledan to znači da su moderatori više puta ovu vijest provjerili prije objavljivanja javnosti. Molimo nemojte više puta slati isti sadržaj.";
+$lang[30] = "Ime sajta (+ kratak opis)";
+$lang[31] = "URL sajta (sa http:// prefixom)";
+$lang[32] = "Hvala na sadržaju. Uskoro ćemo pregledati i, nadamo se, objaviti na sajtu.";
+$lang[33] = "Hvala na sadržaju. Vijest je objavljena na sajtu.";
+$lang[34] = "Nazad na početnu.";
+$lang[35] = "komentari";
+$lang[36] = "Komentari za %%1%%";
+$lang[37] = "Autor";
+$lang[38] = "Komentar";
+$lang[39] = "Dodaj";
+$lang[40] = "Sav sadržaj na AnonNews.org je automatski licenciran pod Creative Commons Attribution licencom.";
+$lang[41] = "Ovo nije WikiLeaks press služba. Vijesti koje govore o WikiLeaksu ali ne i o Anonymous organizaciji će biti <u>odbijene</u>.";
+$lang[42] = "Odgovori na komentar";
+
+?>

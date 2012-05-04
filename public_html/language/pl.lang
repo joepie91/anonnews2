@@ -1,0 +1,53 @@
+<?php
+// Language file for AnonNews interface
+// LANGUAGE: Dutch
+// LANGUAGE (native): Nederlands
+// ISO: NL
+
+// Note: Prefix ever " (quotation mark) in a block of text with a \ (backslash) to avoid it being interpreted as code.
+
+$lang[0] = "Wszystko Anonymous";
+$lang[1] = "więcej";
+$lang[2] = "dodaj";
+$lang[3] = "Najnowsze komunikaty prasowe";
+$lang[4] = "Najpopularniejsze informacje z zewnętrznych źródeł";
+$lang[5] = "Najmniej popularne informacje z zewnętrznych źródeł";
+$lang[6] = "Najnowsze informacje z zewnętrznych źródeł";
+$lang[7] = "Strony związane z Anonymous";
+$lang[8] = "Wszystkie komunikaty prasowe";
+$lang[9] = "Wszystkie informacje z zewnętrznych źródeł";
+$lang[10] = "Wszystkie strony związane z Anonymous";
+$lang[11] = "Wyślij nowy komunikat prasowy/manifest";
+$lang[12] = "Moderowanie nie jest cenzurą! Wpisy nie będerpą cenzurowane ze względu na poglądy lecz moderowane pod kątem związku z tematyką strony. Prosimy wysyłać jedynie komunikaty prasowe i manifesty. UWAGA: przesłane wpisy będą przeglądane i edytowane pod kątem błędów ortograficznych, gramatycznych oraz używania wielkich liter i znaków interpunkcyjnych. Zdania nie muszą być perfekcyjne, ale całość treści musi być czytelna. Wpisy, które będą wypowiadać się w imieniu \"wszystkich Anonymous\" będą odrzucane, chyba że dosłownie rozmawiałeś z każdym Anonem.";
+$lang[13] = "Wpisy dodawane w tej sekcji są poddawane selekcji. ZANIM zostaną umieszczone na stronie będą poddawane przeglądowi. Prosimy ponownie nie dodawać swojego wpisu.";
+$lang[14] = "Jeśli dodałeś manifest w formie graficznej, dodaj jedno lub dwa zdania opisu. Pomoże to prawidłowo zaindeksować treść przez automaty wyszukiwarek.";
+$lang[15] = "Nazwa komunikatu prasowego";
+$lang[16] = "Treść komunikatu prasowego";
+$lang[17] = "Wyślij zdjęcie";
+$lang[18] = "tylko JPG / PNG, max. 5MB.";
+$lang[19] = "Captcha";
+$lang[20] = "Wyślij";
+$lang[21] = "Wpisałeś zły kod z obrazka. Wróć i wpisz poprawny.";
+$lang[22] = "Wyślij nowy wpis do Informacji z zewnętrznych źródeł.";
+$lang[23] = "Moderowanie nie jest cenzurą! Wpisy nie będą cenzurowane ze względu na poglądy, lecz moderowane pod kątem związku z tematyką strony. Prosimy o wysyłanie jedynie artykułów będących Newsami. Nie muszą to być oficjalne informacje z czołówek gazet, ale prosimy też nie wysyłać artykułów będących treścią własnego blogu z poglądami w sprawie Anonymous; strona ta nie zamierza publikować takich artykułów.";
+$lang[24] = "Wpisy dodawane w tej sekcji są poddawane selekcji. Oznacza to, że każdy wpis widoczny jest na stronie od razu po dodaniu, ale może w każdej chwili zostać usunięty, jeśli moderator uzna, że wpis nie powinien się tutaj znajdować.";
+$lang[25] = "Nazwa artykułu";
+$lang[26] = "Adres URL artykułu (razem z http://)";
+$lang[27] = "Wyślij nowy wpis o stronach związanych z Anonymous";
+$lang[28] = "Moderowanie nie jest cenzurą! Wpisy nie będą cenzurowane ze względu na poglądy, lecz moderowane pod kątem związku z tematyką strony. Prosimy wysyłać tylko strony, które bezpośrednio odnoszą się do Anonymous, np. strony informujące o stanie serwerów IRC. Wszystko co reprezentuje część Anonymous jest mile widziane. Prosimy nie wysyłać opinii publikowanych na blogach, artykułów prasowych itp. Artykuły prasowe moga być wysyłane w sekcji \"Informacje z zewnętrznych źródeł\".";
+$lang[29] = "Wpisy dodawane w tej sekcji są poddawane selekcji. To oznacza, że PRZED umieszczeniem na stronie będą poddawane przeglądowi. Prosimy ponownie nie dodawać swojego wpisu.";
+$lang[30] = "Nazwa strony (+ krótki opis)";
+$lang[31] = "Adres URL strony (razem z http:// )";
+$lang[32] = "Dziękujemy za wysłanie. Materiał wkrótce zostanie sprawdzony. ";
+$lang[33] = "Dziękujemy za wysłanie. Materiał jest widoczny na stronie.";
+$lang[34] = "Kliknij tutaj, żeby wrócić do strony głównej.";
+$lang[35] = "Komentarze";
+$lang[36] = "Komentarze dla %%1%%";
+$lang[37] = "Autor";
+$lang[38] = "Komentarz";
+$lang[39] = "Wyślij";
+$lang[40] = "Wszystkie wpisy dokonywane na AnonNews.org zostają automatycznie objęte licencją Creative Commons Attribution.";
+$lang[41] = "To nie jest serwis prasowy Wikileaks. Artykuły dotyczące Wikileaks lecz nie dotyczące Anonymous będą odrzucane.";
+$lang[42] = "Odpowiedz na ten komentarz";
+
+?>

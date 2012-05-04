@@ -1,0 +1,53 @@
+<?php
+// Language file for AnonNews interface
+// LANGUAGE: Dutch
+// LANGUAGE (native): Nederlands
+// ISO: NL
+
+// Note: Prefix ever " (quotation mark) in a block of text with a \ (backslash) to avoid it being interpreted as code.
+
+$lang[0] = "Alles over Anonymous";
+$lang[1] = "meer";
+$lang[2] = "toevoegen";
+$lang[3] = "Laatste persberichten";
+$lang[4] = "Meest populaire externe nieuwsbronnen";
+$lang[5] = "Minst populaire externe nieuwsbronnen";
+$lang[6] = "Nieuwste externe nieuwsbronnen";
+$lang[7] = "Anonymous-gerelateerde websites";
+$lang[8] = "Alle persberichten";
+$lang[9] = "Alle externe nieuwsbronnen";
+$lang[10] = "Alle Anonymous-gerelateerde websites";
+$lang[11] = "Nieuw persbericht/manifesto inzenden";
+$lang[12] = "Moderatie is geen censuur! Inzendingen worden niet gecensureerd op mening, maar worden wel gemodereerd op relevantie. Stuur hier alleen persberichten en manifesto's in. LET OP: De inzendingen via dit formulier worden gecontroleerd op grammatica en correct gebruik van hoofdletters en interpunctie. Het hoeft niet perfect te zijn, maar wel leesbaar. Inzendingen die voor de \"gehele Anonymous-groepering\" beweren te spreken worden geweigerd.";
+$lang[13] = "Inzendingen in dit onderdeel worden gecontroleerd VOORDAT ze geplaatst worden. Als inzendingen niet verschijnen, stuur ze dan niet opnieuw in.";
+$lang[14] = "Als je een manifesto als afbeelding uploadt, voer dan een korte beschrijving in van minimaal één of twee regels, zodat zoekmachines er wijs uit kunnen.";
+$lang[15] = "Titel van het persbericht";
+$lang[16] = "Tekst van het persbericht";
+$lang[17] = "Afbeelding uploaden";
+$lang[18] = "Alleen JPG / PNG, max. 5MB.";
+$lang[19] = "Captcha";
+$lang[20] = "Inzenden";
+$lang[21] = "Je hebt niet de juiste captcha-code ingevoerd. Ga terug en probeer het nog eens.";
+$lang[22] = "Nieuwe externe nieuwsbron inzenden";
+$lang[23] = "Moderatie is geen censuur! Inzendingen worden niet gecensureerd op mening, maar worden wel gemodereerd op relevantie. Zend alleen artikelen in als ze enige nieuwswaarde hebben. Deze hoeven niet per se van een mainstream-bron te komen, maar het is niet de bedoeling dat je hier posts van je eigen weblog gaat plaatsen.";
+$lang[24] = "Inzendingen in dit onderdeel worden NA publicatie gemodereerd. Ze zijn direct zichtbaar, maar een moderator kan later beslissen een inzending te verwijderen.";
+$lang[25] = "Titel van het artikel";
+$lang[26] = "URL van het artikel (inclusief http://)";
+$lang[27] = "Anonymous-gerelateerde website inzenden";
+$lang[28] = "Moderatie is geen censuur! Inzendingen worden niet gecensureerd op mening, maar worden wel gemodereerd op relevantie. Zend alleen websites in die direct aan Anonymous gerelateerd zijn, zoals IRC-statuspagina's. In principe is iedere website die representatief is voor een deel van Anonymous, welkom. Zend geen blogs of nieuwsartikelen in. Nieuwsartikelen kunnen in de Externe nieuwsbronnen-categorie geplaatst worden.";
+$lang[29] = "Inzendingen in dit onderdeel worden gecontroleerd VOOR DAT ze geplaatst worden. Als inzendingen niet verschijnen, stuur ze dan niet opnieuw in.";
+$lang[30] = "Websitenaam (+ korte omschrijving)";
+$lang[31] = "Website-URL (inclusief http://)";
+$lang[32] = "Bedankt voor je inzending. Ze zal zo snel mogelijk gecontroleerd worden.";
+$lang[33] = "Bedankt voor je inzending. Ze is nu zichtbaar op de website.";
+$lang[34] = "Klik hier om terug te gaan naar de hoofdpagina.";
+$lang[35] = "reacties";
+$lang[36] = "Reacties op %%1%%";
+$lang[37] = "Auteur";
+$lang[38] = "Reactie";
+$lang[39] = "Inzenden";
+$lang[40] = "Alle inzendingen aan AnonNews.org worden automatisch vrijgegeven onder een Creative Commons Attribution-licentie.";
+$lang[41] = "Dit is geen Wikileaks-persdienst. Artikels die gerelateerd zijn aan Wikileaks, maar niet aan Anonymous, worden geweigerd.";
+$lang[42] = "Reageren op dit bericht";
+
+?>
