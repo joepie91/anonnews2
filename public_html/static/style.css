@@ -1,0 +1,96 @@
+body
+{
+	background-color: #EEEEEE;
+	font-family: 'Istok Web', sans-serif;
+	padding: 0px;
+	margin: 0px;
+}
+
+.clear
+{
+	clear: both;
+}
+
+.clear-left
+{
+	clear: left;
+}
+
+.page-header
+{
+	padding: 8px 12px 0px 12px;
+	background: url(images/background.jpg);
+}
+
+.page-header h1
+{
+	margin: 4px 0px;
+	font-weight: normal;
+}
+
+.page-header nav a
+{
+	display: block;
+	float: left;
+	margin: 0px 4px;
+	padding: 4px 8px;
+	background-color: #CECECE;
+	color: #3D3D3D;
+	text-decoration: none;
+	border: 1px solid gray;
+	border-bottom: none;
+}
+
+.page-header nav a.section
+{
+	background-color: #BFBDCA;
+}
+
+.page-header nav a.submit
+{
+	background-color: #E7D99B;
+}
+
+.page-header nav a:hover
+{
+	color: black;
+	background-color: #B5B5B5;
+}
+
+.page-header nav a.section:hover
+{
+	background-color: #A29CC6;
+}
+
+.page-header nav a.submit:hover
+{
+	background-color: #E6CF64;
+}
+
+.page-header nav a.active
+{
+	color: black;
+	background-color: #EEEEEE;
+}
+
+#button_donate
+{
+	color: #060051;
+	border-color: #242058;
+}
+
+
+
+.license
+{
+	clear: both;
+	margin: 8px 24px;
+	padding: 6px 11px;
+	font-size: 12px;
+	background-color: #E5E5E5;
+}
+
+.license p
+{
+	margin: 3px 0px;
+}
