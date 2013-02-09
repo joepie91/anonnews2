@@ -36,6 +36,7 @@ function curl_head($url)
 	curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
 	curl_setopt($ch, CURLOPT_CONNECTTIMEOUT, 3);
 	curl_setopt($ch, CURLOPT_PROTOCOLS, CURLPROTO_HTTP | CURLPROTO_HTTPS);
+	curl_setopt($ch, CURLOPT_REDIR_PROTOCOLS, CURLPROTO_HTTP | CURLPROTO_HTTPS);
 	curl_setopt($ch, CURLOPT_USERAGENT, 'AnonNews/2.0 Link Validator - http://www.anonnews.org/');
 	$return_object->result = curl_exec($ch);
 	$error = curl_error($ch); 
@@ -71,6 +72,7 @@ function curl_get($url)
 	curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
 	curl_setopt($ch, CURLOPT_CONNECTTIMEOUT, 3);
 	curl_setopt($ch, CURLOPT_PROTOCOLS, CURLPROTO_HTTP | CURLPROTO_HTTPS);
+	curl_setopt($ch, CURLOPT_REDIR_PROTOCOLS, CURLPROTO_HTTP | CURLPROTO_HTTPS);
 	curl_setopt($ch, CURLOPT_USERAGENT, 'AnonNews/2.0 Link Validator (Title Fetcher) - http://www.anonnews.org/');
 	$return_object->result = curl_exec($ch);
 	$error = curl_error($ch);
